@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MovieRunnerSimilarRatings
+comment0.text=\n\ Write\ a\ description\ of\ MovieRunnerSimilarRatings\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=average\ print
+comment1.target=void\ printOut(java.util.ArrayList,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testSimilarRatings()
+comment3.params=genre
+comment3.target=void\ testSimilarRatingsByGenre(java.lang.String)
+comment4.params=directors
+comment4.target=void\ testSimilarRatingsByDirectors(java.lang.String)
+comment5.params=genre\ minMin\ maxMin
+comment5.target=void\ testSimilarRatingsByGenreAndMinutes(java.lang.String,\ int,\ int)
+comment6.params=year\ minMin\ maxMin
+comment6.target=void\ testSimilarRatingsByYearAndMinutes(int,\ int,\ int)
+numComments=7

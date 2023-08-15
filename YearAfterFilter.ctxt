@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=YearAfterFilter
+comment1.params=year
+comment1.target=YearAfterFilter(int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=id
+comment3.target=boolean\ satisfies(java.lang.String)
+numComments=4

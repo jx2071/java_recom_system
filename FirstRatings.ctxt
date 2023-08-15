@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=FirstRatings
+comment0.text=\n\ Write\ a\ description\ of\ FirstRating\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=FirstRatings()
+comment10.params=movieid
+comment10.target=void\ findRatingsOfMovie(java.lang.String)
+comment11.params=
+comment11.target=void\ findAllMoviesRated()
+comment2.params=filename
+comment2.target=java.util.ArrayList\ loadMovies(java.lang.String)
+comment3.params=filename
+comment3.target=java.util.ArrayList\ loadRaters(java.lang.String)
+comment4.params=raterid\ raters
+comment4.target=int\ findRater(java.lang.String,\ java.util.ArrayList)
+comment5.params=genre
+comment5.target=java.util.ArrayList\ filterByGenre(java.lang.String)
+comment6.params=length
+comment6.target=java.util.ArrayList\ filterByLength(int)
+comment7.params=
+comment7.target=void\ movieDirectorMax()
+comment8.params=raterid
+comment8.target=java.util.ArrayList\ findRatings(java.lang.String)
+comment9.params=
+comment9.target=void\ findRaterWithMostRatings()
+numComments=12
